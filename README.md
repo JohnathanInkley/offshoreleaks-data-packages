@@ -1,5 +1,5 @@
 # Offshoreleaks Data Packages
-
+ 
 This repository holds offshoreleaks downloadable neo4j database and CSV data files.
 
 It also includes Neo4j guides that can be loaded in Neo4j Desktop.
